@@ -1,7 +1,7 @@
 # Личный проект «Кэт энерджи» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Артур Баллод](https://up.htmlacademy.ru/adaptive/13/user/86012).
-* Наставник: `Неизвестно`.
+* Наставник: `Сам по себе, повторно`.
 
 ---
 
